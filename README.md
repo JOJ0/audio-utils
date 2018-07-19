@@ -1,4 +1,4 @@
-= J0J0's quick and dirty audio and video utils
+# J0J0's quick and dirty audio and video utils
 
 a collection of small shell scripts I used/use to mass edit audio and video files
 
