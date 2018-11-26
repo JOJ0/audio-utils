@@ -1,8 +1,7 @@
 #!/bin/bash
+DRY="echo"
 if [ "$1" == "doit" ]; then
   DRY=""
-else
-  DRY="echo"
 fi
 
 for M4A in ./*m4a; do
