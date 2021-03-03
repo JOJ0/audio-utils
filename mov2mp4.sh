@@ -15,7 +15,7 @@ function GetBaseName() {
 EXT=mov
 VID_NO=1
 
-CUT1="-ss 00:00:00 -to 00:10:10"
+#CUT1="-ss 00:00:00 -to 00:10:10"
 #CUT2=""
 #CUT2=""
 #CUT4=""
