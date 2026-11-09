@@ -7,5 +7,5 @@ pathlib>=1.0.1
 pylint>=2.4.4
 six>=1.14.0
 typed-ast>=1.4.1
-urwid==1.1.0
+urwid==4.0.7
 wrapt>=1.11.2
